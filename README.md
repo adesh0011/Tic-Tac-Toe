@@ -1,6 +1,6 @@
 🎮 Tic-Tac-Toe Game
 
-A classic Tic-Tac-Toe game** built using HTML, CSS, and JavaScript. This project demonstrates interactive gameplay logic, DOM manipulation, and responsive UI design. 
+A classic Tic-Tac-Toe game, built using HTML, CSS, and JavaScript. This project demonstrates interactive gameplay logic, DOM manipulation, and responsive UI design. 
 Players can take turns marking X and O, and the game detects winners or a draw automatically.
 
 💡 Features:
