@@ -20,4 +20,4 @@ Players can take turns marking X and O, and the game detects winners or a draw a
 🌐 Live Demo:
 
 Hosted on GitHub
-🔗 [Play Now](https://your-username.github.io/tic-tac-toe/)
+🔗 [Play Now](file:///C:/Users/User/OneDrive/Desktop/Game/index.html)
