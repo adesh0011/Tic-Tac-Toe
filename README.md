@@ -16,8 +16,3 @@ Players can take turns marking X and O, and the game detects winners or a draw a
 * HTML5
 * CSS3
 * JavaScript (DOM manipulation & game logic)
-
-🌐 Live Demo:
-
-Hosted on GitHub
-🔗 [Play Now](file:///C:/Users/User/OneDrive/Desktop/Game/index.html)
